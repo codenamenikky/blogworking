@@ -1,0 +1,153 @@
+Source,Fuel,Prime Mover,Cooling System,Notes,Median Value,Unit
+NETL 2010a,Coal,IGCC,Recirculating,,360,gal/MWh
+NETL 2010a,Coal,IGCC,Recirculating,,330,gal/MWh
+NETL 2010a,Coal,IGCC,Recirculating,,318,gal/MWh
+NETL 2007b,Coal,IGCC,Recirculating,,372,gal/MWh
+NETL 2007b,Coal,IGCC,Recirculating,,390,gal/MWh
+NETL 2007b,Coal,IGCC,Recirculating,,388,gal/MWh
+NETL 2007b,Coal,IGCC,Recirculating,,439,gal/MWh
+NETL 2010c,Coal,IGCC,Recirculating,,418,gal/MWh
+NETL 2010a,Coal,IGCC with CCS,Recirculating,,522,gal/MWh
+NETL 2010a,Coal,IGCC with CCS,Recirculating,,540,gal/MWh
+NETL 2010a,Coal,IGCC with CCS,Recirculating,,558,gal/MWh
+NETL 2010c,Coal,IGCC with CCS,Recirculating,,604,gal/MWh
+WRA 2008,Coal,Generic,Recirculating,,541,gal/MWh
+Gleick 1993,Coal,Generic,Recirculating,,687,gal/MWh
+Hoffman et al. 2004,Coal,Generic,Recirculating,,1100,gal/MWh
+Dziegielewski and Bik 2006,Coal,Generic,Recirculating,,700,gal/MWh
+EPRI 2002,Coal,Generic,Recirculating,,480,gal/MWh
+Gleick 1993,Coal,Generic,Once-through,,317,gal/MWh
+Hoffman et al. 2004,Coal,Generic,Once-through,,100,gal/MWh
+Dziegielewski and Bik 2006,Coal,Generic,Once-through,,200,gal/MWh
+EPRI 2002,Coal,Generic,Once-through,,300,gal/MWh
+EPRI 2002,Coal,Generic,Pond,,390,gal/MWh
+Dziegielewski and Bik 2006,Coal,Generic,Pond,,700,gal/MWh
+Gleick 1993,Coal,Fluidized Bed,Once-through,,211,gal/MWh
+NETL 2010a,Coal,Subcritical with CCS,Recirculating,,942,gal/MWh
+NETL 2010c,Coal,Subcritical with CCS,Recirculating,,900,gal/MWh
+NETL 2010a,Coal,Supercritical with CCS,Recirculating,,846,gal/MWh
+Zhai 2011,Coal,Supercritical with CCS,Recirculating,,815,gal/MWh
+NETL 2010c,Coal,Supercritical with CCS,Recirculating,,907,gal/MWh
+NETL 2009b,Coal,Subcritical Pulverized Coal,Recirculating,,479,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Recirculating,wet FGD,462,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Recirculating,dry FGD,437,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Recirculating,no FGD,394,gal/MWh
+NETL 2010a,Coal,Subcritical Pulverized Coal,Recirculating,,510,gal/MWh
+NETL 2007a,Coal,Subcritical Pulverized Coal,Recirculating,,664,gal/MWh
+NETL 2010b,Coal,Subcritical Pulverized Coal,Recirculating,,553,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Once-through,wet FGD,138,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Once-through,dry FGD,113,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Once-through,no FGD,71,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Pond,wet FGD,804,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Pond,dry FGD,779,gal/MWh
+NETL 2009a,Coal,Subcritical Pulverized Coal,Pond,no FGD,737,gal/MWh
+NETL 2009b,Coal,Supercritical Pulverized Coal,Recirculating,,490,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Recirculating,wet FGD,518,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Recirculating,dry FGD,496,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Recirculating,no FGD,458,gal/MWh
+NETL 2010a,Coal,Supercritical Pulverized Coal,Recirculating,,462,gal/MWh
+NETL 2007a,Coal,Supercritical Pulverized Coal,Recirculating,,594,gal/MWh
+Zhai 2011,Coal,Supercritical Pulverized Coal,Recirculating,,445,gal/MWh
+NETL 2010c,Coal,Supercritical Pulverized Coal,Recirculating,,533,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Once-through,wet FGD,124,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Once-through,dry FGD,103,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Once-through,no FGD,64,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Pond,wet FGD,64,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Pond,dry FGD,42,gal/MWh
+NETL 2009a,Coal,Supercritical Pulverized Coal,Pond,no FGD,4,gal/MWh
+EPRI 2002,Natural Gas,Combined Cycle,Recirculating,,180,gal/MWh
+Leitner 2002,Natural Gas,Combined Cycle,Recirculating,,275,gal/MWh
+NETL 2009a,Natural Gas,Combined Cycle,Recirculating,,130,gal/MWh
+NETL 2010a,Natural Gas,Combined Cycle,Recirculating,,198,gal/MWh
+NETL 2007b,Natural Gas,Combined Cycle,Recirculating,,283,gal/MWh
+NETL 2010c,Natural Gas,Combined Cycle,Recirculating,,212,gal/MWh
+NETL 2009a,Natural Gas,Combined Cycle,Once-through,,20,gal/MWh
+Feeley et al. 2005,Natural Gas,Combined Cycle,Once-through,,100,gal/MWh
+EPRI 2002,Natural Gas,Combined Cycle,Once-through,,100,gal/MWh
+NETL 2009a,Natural Gas,Combined Cycle,Pond,,240,gal/MWh
+EPRI 2002,Natural Gas,Combined Cycle,Dry,,0,gal/MWh
+NETL 2009a,Natural Gas,Combined Cycle,Dry,,4,gal/MWh
+NETL 2010a,Natural Gas,Combined Cycle with CCS,Recirculating,,378,gal/MWh
+NETL 2010c,Natural Gas,Combined Cycle with CCS,Recirculating,,407,gal/MWh
+CEC 2008,Natural Gas,Steam,Recirculating,,965,gal/MWh
+Gleick 1993,Natural Gas,Steam,Recirculating,,687,gal/MWh
+WRA 2008,Natural Gas,Steam,Recirculating,,662,gal/MWh
+Feeley et al. 2005,Natural Gas,Steam,Recirculating,,1100,gal/MWh
+CEC 2008,Natural Gas,Steam,Once-through,,190,gal/MWh
+Gleick 1993,Natural Gas,Steam,Once-through,,291,gal/MWh
+EPRI 2002,Nuclear,Steam,Recirculating,,720,gal/MWh
+Gleick 1993,Nuclear,Steam,Recirculating,,845,gal/MWh
+Gleick 1993,Nuclear,Steam,Recirculating,,581,gal/MWh
+WRA 2008,Nuclear,Steam,Recirculating,,609,gal/MWh
+Dziegielewski and Bik 2006,Nuclear,Steam,Recirculating,,800,gal/MWh
+NETL 2009a,Nuclear,Steam,Recirculating,,624,gal/MWh
+EPRI 2002,Nuclear,Steam,Once-through,,400,gal/MWh
+NETL 2009a,Nuclear,Steam,Once-through,,137,gal/MWh
+Dziegielewski and Bik 2006,Nuclear,Steam,Once-through,,400,gal/MWh
+Hoffman et al. 2004,Nuclear,Steam,Once-through,,100,gal/MWh
+EPRI 2002,Nuclear,Steam,Pond,,720,gal/MWh
+Dziegielewski and Bik 2006,Nuclear,Steam,Pond,,500,gal/MWh
+EPRI 2002,Biopower,Steam,Recirculating,,480,gal/MWh
+CEC 2008,Biopower,Steam,Recirculating,,965,gal/MWh
+EPRI and DOE 1997,Biopower,Steam,Recirculating,,609,gal/MWh
+EPRI and DOE 1997,Biopower,Steam,Recirculating,,497,gal/MWh
+EPRI 2002,Biopower,Steam,Once-through,,300,gal/MWh
+EPRI 2002,Biopower,Steam,Pond,,390,gal/MWh
+Mann 1997,Biopower,Biogas,Tower,,235,gal/MWh
+EPRI and DOE 1997,Biopower,Biogas,Dry,,35,gal/MWh
+Viebahn et al. 2008,CSP,Trough,Recirculating,,849,gal/MWh
+Viebahn et al. 2008,CSP,Trough,Recirculating,,738,gal/MWh
+Sargent and Lundy 2003,CSP,Trough,Recirculating,,814,gal/MWh
+Leitner 2002,CSP,Trough,Recirculating,,772,gal/MWh
+Stoddard et al. 2006,CSP,Trough,Recirculating,,777,gal/MWh
+Kelly 2006,CSP,Trough,Recirculating,,975,gal/MWh
+Gleick 1993,CSP,Trough,Recirculating,,1057,gal/MWh
+WorleyParsons 2009b,CSP,Trough,Recirculating,,865,gal/MWh
+Cohen et al. 1999,CSP,Trough,Recirculating,,988,gal/MWh
+Cohen et al. 1999,CSP,Trough,Recirculating,,1010,gal/MWh
+Cohen et al. 1999,CSP,Trough,Recirculating,,985,gal/MWh
+Cohen et al. 1999,CSP,Trough,Recirculating,,817,gal/MWh
+Cohen et al. 1999,CSP,Trough,Recirculating,,820,gal/MWh
+Kutscher and Buys 2006,CSP,Trough,Recirculating,,856,gal/MWh
+WorleyParsons 2009a,CSP,Trough,Recirculating,,1012,gal/MWh
+WorleyParsons 2009a,CSP,Trough,Recirculating,,948,gal/MWh
+WorleyParsons 2009b,CSP,Trough,Recirculating,,948,gal/MWh
+Burkhardt et al. 2011,CSP,Trough,Recirculating,,951,gal/MWh
+Kelly 2006,CSP,Trough,Dry,,79,gal/MWh
+Kelly 2006,CSP,Trough,Dry,,78,gal/MWh
+Kelly 2006,CSP,Trough,Dry,,78,gal/MWh
+Kelly 2006,CSP,Trough,Dry,,78,gal/MWh
+Kelly 2006,CSP,Trough,Dry,,78,gal/MWh
+Kelly 2006,CSP,Trough,Dry,,78,gal/MWh
+Kelly 2006,CSP,Trough,Dry,,78,gal/MWh
+WorleyParsons 2009b,CSP,Trough,Dry,,43,gal/MWh
+WorleyParsons 2009a,CSP,Trough,Dry,,71,gal/MWh
+WorleyParsons 2009a,CSP,Trough,Dry,,67,gal/MWh
+Burkhardt et al. 2011,CSP,Trough,Dry,,66,gal/MWh
+WorleyParsons 2009b,CSP,Trough,Hybrid,,338,gal/MWh
+DOE 2009,CSP,Trough,Hybrid,,105,gal/MWh
+DOE 2009,CSP,Trough,Hybrid,,345,gal/MWh
+Viebahn et al. 2008,CSP,Power Tower,Recirculating,,860,gal/MWh
+Sargent and Lundy 2003,CSP,Power Tower,Recirculating,,814,gal/MWh
+Leitner 2002,CSP,Power Tower,Recirculating,,758,gal/MWh
+Stoddard et al. 2006,CSP,Power Tower,Recirculating,,740,gal/MWh
+Brightsource Energy 2007,CSP,Power Tower,Dry,,26,gal/MWh
+DOE 2009,CSP,Power Tower,Hybrid,,90,gal/MWh
+DOE 2009,CSP,Power Tower,Hybrid,,250,gal/MWh
+Leitner 2002,CSP,Dish,N/A,,4,gal/MWh
+CEC 2008,CSP,Dish,N/A,,5,gal/MWh
+DOE 2009,CSP,Linear Fresnel,Recirculating,,1000,gal/MWh
+DOE 2012,PV,PV,N/A,,0,gal/MWh
+Aspen 2011b,PV,PV,N/A,,1,gal/MWh
+Aspen 2011a,PV,PV,N/A,,5,gal/MWh
+Inhaber 2004,Wind,Wind,N/A,,0,gal/MWh
+DOE 2006,Wind,Wind,N/A,,0,gal/MWh
+CEC 2008,Geothermal,Flash,Recirculating,,19,gal/MWh
+Kagel et al. 2007,Geothermal,Flash,Recirculating,,5,gal/MWh
+Clark et al. 2011,Geothermal,Flash,Recirculating,,10,gal/MWh
+Adee and Moore 2010,Geothermal,Flash,Recirculating,,361,gal/MWh
+Kutscher and Costenaro 2002,Geothermal,Binary,Hybrid,,221,gal/MWh
+Clark et al. 2011,Geothermal,Binary,Dry,,270,gal/MWh
+Clark et al. 2011,Geothermal,EGS,Dry,,505,gal/MWh
+Clark et al. 2011,Geothermal,Flash,Dry,,5,gal/MWh
+Kozubal and Kutscher 2003,Geothermal,Binary,Hybrid,,700,gal/MWh
